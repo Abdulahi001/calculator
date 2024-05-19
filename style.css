@@ -122,7 +122,7 @@ body{
             display: grid;
             grid-template-columns: repeat(4,1fr);
             gap: 5px;
-            margin-bottom: 20px;
+            margin-bottom: 60px;
             
             button{
                 width: 87px;
