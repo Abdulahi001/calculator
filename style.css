@@ -123,11 +123,11 @@ body{
             display: grid;
             grid-template-columns: repeat(4,1fr);
             gap: 5px;
-            margin-bottom: 100px;
+            margin-bottom: 80px;
             
             button{
-                width: 87px;
-                height: 87px;
+                width: 90px;
+                height: 90px;
                 border: none;
                 border-radius: 50%;
                 color: #fff;
@@ -135,7 +135,7 @@ body{
                 font-weight: 600;
                 background-color: #333;
                 cursor: pointer;
-                margin: 2px 0;
+                margin: 4px 0;
 
             }
             .zero{
